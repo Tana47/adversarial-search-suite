@@ -20,10 +20,9 @@ This repository contains Python implementations of four fundamental adversarial 
 Ensure you have Python 3 installed. Navigate to the project directory and run:
 ```bash
 python -m unittest test_algorithms.py
+```
 
----
-
-### **2. `game.py` (The Environment)**
+### **2. `game.py` (The Environment)** ###
 
 This file contains the logic for Tic-Tac-Toe, which is necessary for the algorithms to traverse states, evaluate moves, and check for terminal conditions.
 
